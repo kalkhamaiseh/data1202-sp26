@@ -1,4 +1,4 @@
-# DATA 1200 Spring 2025 Public Materials
+# DATA 1200 Spring 2026 Public Materials
 This repository contains the publicly available materials used in the DATA 1200 course at Michigan Technological University.
 
 The materials include:
